@@ -1,9 +1,15 @@
 venv/
 __pycache__/
 *.pyc
+<<<<<<< HEAD
 
 data/
 database/
 models/
 notebook/
 .ipynb_checkpoints/
+=======
+models/
+database/
+churn.db
+>>>>>>> 0b234fa (clean initial commit)
